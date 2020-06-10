@@ -36,7 +36,8 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   border:10px solid goldenrod;
   min-height: 100vh;
   flex-flow: row wrap;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .box {
